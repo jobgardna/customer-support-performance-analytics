@@ -108,6 +108,6 @@ The dataset simulates a real-world support center and contains:
 
 ## 👤 Author
 
-Stephen — Customer Experience Professional transitioning into Data & Backend Engineering.
+Job — Customer Experience Professional transitioning into Data Science.
 
 This project bridges operational expertise with analytics capability.
