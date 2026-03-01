@@ -1,4 +1,3 @@
-# customer-support-performance-analytics
 # 📊 Customer Support Performance Analytics Dashboard
 
 ## 🚀 Project Overview
